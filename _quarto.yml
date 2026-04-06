@@ -1,0 +1,9 @@
+project:
+  title: "Growing Up Bilingual"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/parents_of_bilinguals.bib
+csl: ./lit/apa.csl
