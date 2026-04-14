@@ -46,37 +46,49 @@ theme_set(theme_grey(base_size = 30))
 
 # A bit about us {.transition}
 
-## Our Organization
+##
 
-Who are we? CENTER THIS
+<center>
+**[Who are we?]{.emph}**
+</center>
 
 - We are RU Bilingual
 - Graduate students in the Spanish & Portuguese department at Rutgers
 - We study bilingualism and second language acquisition
 
-## Our Organization
+##
 
-What do we do? CENTER THIS
+<center>
+**[What do we do?]{.emph}**
+</center>
 
 - We want our day-to-day research to be useful to a broader public
 - We want to create a safe place to discuss multilingualism in our communities
 
-## Our Organization
+##
 
-Our objectives: CENTER THIS
+<center>
+**[Our objectives:]{.emph}**
+</center>
 
 - Support and defend bilingualism at home, in school, and in our community
 - Allow for academic research to have more practical applications
 
 # What we'll be talking about today {.transition}
 
+::: incremental
+
 - What is bilingualism?
+
+- Linguistic Attitudes & Language Ideologies
 
 - What myths exist about bilingualism?
 
 - What advantages are there to bilingualism?
 
 - How can we contribute to maintaining bilingualism?
+
+:::
 
 # What is Bilingualism? {.transition}
 
@@ -91,15 +103,23 @@ Discuss in pairs, then share.
 - The ability to understand and/or communicate in more than one language
 - Is there a minimum requirement to be considered bilingual?
 
+::: fragment
+
 Four components:
-- read / write / speak / listen
+
+<center>
+read / write / speak / listen
+</center>
+
+:::
 
 ## Bilingualism versus Biliteracy
 
-- *Biliteracy* refers to having the ability to read and write in two languages
-- Someone who is *biliterate* is bilingual and can read/write in their two languages
-- A bilingual person is not necessarily biliterate
-- Some bilinguals cannot read/write in their two languages
+- [Biliteracy]{.emph}: ability to read and write in two languages
+- A [bilingual person]{.emph} is not necessarily biliterate
+- Some bilinguals [cannot read/write]{.emph} in their two languages
+- [Less than half]{.emph} of the world's languages today are written [@sil_orthography_development]
+- About [12%] of the human population is illiterate today [@unesco2025factsheet]
 
 ::: notes
 Mention that for the vast majority of history, humans did not write. Today, the vast majority of languages remain solely oral.
@@ -107,7 +127,7 @@ Mention that for the vast majority of history, humans did not write. Today, the 
 
 ## Bilingualism in the world
 
-CHANGE THIS SLIDE SO THAT IT'S IMAGES, NOT JUST TEXT
+::: incremental 
 
 - How many languages are there in the world?
 
@@ -116,42 +136,261 @@ CHANGE THIS SLIDE SO THAT IT'S IMAGES, NOT JUST TEXT
 - How many countries are there?
   
   - 206
+  
+:::
+  
+::: fragment
 
-More than 33 languages per country
+More than [33 languages per country]{.emph}
 
-The truth:
+The truth: [More than half]{.emph} of children around the world grow up in a [bilingual environment]{.emph}
 
-- More than half of kids around the world grow up in a bilingual environment
-- More than half of the world's population is bilingual
+:::
 
 ::: notes
 Many languages are moribund, and we have seen a major extinction event of languages due to colonialism.
 :::
 
-## Bilingualism in the US
+## 
 
-ADD IMAGES, NOT JUST TEXT
-Maybe one slide per level US > NJ > Somerset
+::: {.columns}
 
-- 22% of people in US speak a language other than English
-- 34% of the New Jersey population
-- 37% of Somerset County, NJ
+::: {.column width="80%"}
+![](assets/bilingualism_usa.bmp)
+:::
 
-::: footer
-https://www.census.gov/acs/www/about/why-we-ask-each-question/language/
+::: {.column width="20%"}
+
+**[22%]{.emph}**
+
+of people in the U.S. speak a language other than English
+
+:::
+
 :::
 
 ##
 
-![](assets/somerset.bmp){.absolute top="0" left="200" width="650" height="650"}
+::: {.columns}
 
-::: footer
-https://experience.arcgis.com/experience/cbd39e908efc459abbc2aa51916aed09/page/Language-Spoken-At-Home
+::: {.column width="70%"}
+![](assets/bilingualism_nj.bmp)
 :::
 
-## Langauges in New Jersey
+::: {.column width="30%"}
 
-ADD MAP HERE
+**[34%]{.emph}**
+
+of people in New Jersey speak a language other than English
+
+:::
+
+:::
+
+##
+
+::: {.columns}
+
+::: {.column width="80%"}
+![](assets/somerset.bmp)
+:::
+
+::: {.column width="20%"}
+
+**[37%]{.emph}**
+
+of people in Somerset County speak a language other than English
+
+:::
+
+:::
+
+::: notes
+
+factoid source: https://www.census.gov/acs/www/about/why-we-ask-each-question/language/
+
+map sources for usa & nj: https://lang-map.mla.org/?_ga=2.189842600.266919070.1776158169-1032903345.1776158169&l=Total_Lower_Undergraduate_Enrollments!%2CTotal_Upper_Undergraduate_Enrollments!%2CTotal_Undergraduate_Enrollments!%2CTotal_Graduate_Enrollments!%2CTotal_Institutional_Enrollments!%2CPredominantPrimaryLesson%5B20%5D!%2Cpredominant_language_spoken_excl_english%5B20%5D!%2Cpredominant_language_spoken_excl_spanish_eng%5B20%5D~%2Call_languages_other_engl_pct%2Cother_unspecified_languages_pct!%2Cafrican_languages_pct!%2Carabic_pct!%2Carmenian_pct!%2Cchinese_pct!%2Cfrench_pct!%2Cfrench_creole_pct!%2Cgerman_pct!%2Cgreek_pct!%2Cgujarathi_pct!%2Chebrew_pct!%2Chindi_pct!%2Chmong_pct!%2Chungarian_pct!%2Citalian_pct!%2Cjapanese_pct!%2Ckorean_pct!%2Claotian_pct!%2Cmonkmer_pct!%2Cnavajo_pct!%2Cpersian_pct!%2Cpolish_pct!%2Cportugese_pct!%2Crussian_pct!%2Cscandanavian_pct!%2Cserbian_croatian_pct!%2Cspanish_pct!%2Ctagalog_pct!%2Cthai_pct!%2Curdu_pct!%2Cvietnamese_pct!%2Cyiddish_pct!%2Cother_asian_pct!%2Cother_indic_pct!%2Cother_indoeuropean_pct!%2Cother_pacificisland_pct!%2Cother_slavic_pct!%2Cother_naindigenous_pct!%2Cother_westgermanic_pct!%2Call_languages_other_engl_cnt!%2Cother_unspecified_languages_cnt!%2Cafrican_languages_cnt!%2Carabic_cnt!%2Carmenian_cnt!%2Cchinese_cnt!%2Cfrench_cnt!%2Cfrench_creole_cnt!%2Cgerman_cnt!%2Cgreek_cnt!%2Cgujarathi_cnt!%2Chebrew_cnt!%2Chindi_cnt!%2Chmong_cnt!%2Chungarian_cnt!%2Citalian_cnt!%2Cjapanese_cnt!%2Ckorean_cnt!%2Claotian_cnt!%2Cmonkmer_cnt!%2Cnavajo_cnt!%2Cpersian_cnt!%2Cpolish_cnt!%2Cportugese_cnt!%2Crussian_cnt!%2Cscandanavian_cnt!%2Cserbian_croatian_cnt!%2Cspanish_cnt!%2Ctagalog_cnt!%2Cthai_cnt!%2Curdu_cnt!%2Cvietnamese_cnt!%2Cyiddish_cnt!%2Cother_asian_cnt!%2Cother_indic_cnt!%2Cother_indoeuropean_cnt!%2Cother_pacificisland_cnt!%2Cother_slavic_cnt!%2Cother_naindigenous_cnt!%2Cother_westgermanic_cnt!&bl=mapnik&t=qgis_mapserv.fcgi&c=-10710812%2C4732693&s=20000000
+
+map source for somerset county: https://experience.arcgis.com/experience/cbd39e908efc459abbc2aa51916aed09/page/Language-Spoken-At-Home
+
+:::
+
+# Linguistic Attitudes & Language Ideologies {.transition}
+
+##
+
+Despite the [large]{.emph} number of bilinguals in the world, and especially in the United States, people still have [very different reactions]{.emph} to bilingualism.
+
+## Let's reflect...
+
+1. Is one language "better" than another? Why?
+2. Which language sounds more romantic? Where does that idea come from?
+3. Which variety of Spanish is "better"? Mexican? Colombian? Another?
+4. How do young people speak today?
+5. Do you think your parents thought the same way at your age?
+6. What assumptions do we make about how wealthy people speak?
+7. What about people with less money?
+
+::: notes
+discuss with a partner
+:::
+
+## {.smaller}
+
+[Language attitudes]{.emph} are reactions toward languages, their use in society, and their speakers. 
+
+These attitudes can influence how we speak.
+
+"Language" here variably refers to...
+
+- A language (e.g., Spanish)
+- A variety (e.g., Mexican Spanish)
+- A style (e.g., youth speech)
+- A sociolect (e.g., middle-class speech)
+
+Attitudes can be:
+
+- Positive
+- Negative
+- Neutral
+
+## 
+::: incremental
+
+Three common ways of evaluating language
+
+- Correctness → Correct vs. Incorrect
+
+- Appropriateness → Better vs. Worse
+
+- Aesthetics → Pleasant vs. Ugly
+
+:::
+
+::: fragment
+
+But...
+
+:::
+
+::: fragment
+
+[Who]{.emph} decides what is correct, better, or pleasant? 
+
+:::
+
+## {.smaller}
+
+::: fragment
+
+- Linguistic Attitudes
+  - Evaluations or reactions toward languages
+  - Expressed as opinions, beliefs, or prejudices
+  - Individual level
+  
+:::
+
+::: fragment
+
+- Language Ideologies
+  - Socially constructed ideas about how language should function
+  - Linked to political, social, and economic interests
+  - Shared across groups or societies
+
+:::
+
+::: fragment
+
+- Some research
+  - @callesano2019latinx: perceptions of Spanish varieties
+  - @sima2017actitudes: pride and identity in Yucatec Maya
+  - @purnell1999perceptual: linguistic profiling
+
+:::
+
+##
+
+<br><br>
+
+<center>
+
+"Contemporary raciolinguistic ideologies must be situated within colonial histories that shaped the co-naturalization of language and race as part of the project of modernity" [@rosa2017unsettling]
+
+##
+
+What do [colonial processes]{.emph} do?
+
+::: fragment
+
+They [systematize]{.emph} and [classify]{.emph} language:
+
+:::
+
+::: fragment
+
+- Appropriate vs. inappropriate
+- Intelligent vs. unintelligent
+- e.g.: Grammar of the Castilian Language [@nebrija1492gramatica]
+
+:::
+
+## Raciolinguistic ideologies in early colonization
+
+- Applied to Indigenous populations
+- Language used to justify hierarchies and difference
+- Today: the “white listening subject”
+
+## Raciolinguistic ideologies in early colonization
+
+- Certain ways of speaking are evaluated through white, normative expectations
+- Raciolinguistics today:
+  - Stigmatization of Latinx English and Spanish in the U.S.
+  - Stigmatization of dialects that have been previously racialized
+
+##
+
+Language attitudes and ideologies also shape the concept of bilingualism
+
+- [Monoglossic ideologies]{.emph}
+  - "One nation, one language"
+  - shapes educational policies
+  - The reification of the "native speaker"
+
+## Who counts as a "native speaker"?
+
+Research shows this figure is often imagined as:
+
+- White
+- Middle or upper class
+- From specific regions
+
+::: fragment
+<center>
+These [assumptions]{.emph} lead to [misdiagnosis]{.emph} and [misplacement]{.emph} of students in educational systems.
+</center>
+:::
+
+##
+
+We are often told that being bilingual is an advantage.
+But… an advantage for whom? 
+
+Zavala and Tupas argue that bilingualism is not a neutral category — it is political.
+
+Peru
+“Bilingual” is often used for Quechua-Spanish students, sometimes with deficit connotations.
+
+Philippines
+English-Filipino bilingualism erased the presence of more than 100 local languages.
+
+So we should ask:
+
+What counts as bilingual in your context?
+Only English and Spanish?
+What about Indigenous languages?
+
+Bilingualism is not fixed.
+It is a diverse and situated experience.
 
 # What myths exist about bilingualism? {.transition}
 
@@ -294,8 +533,6 @@ add images here of spanglish
 
 # Are There Advantages to Being Bilingual? {.transition}
 
-Yhosep's part will go here I guess?
-
 Add Stroop Test here.
 
 Multilingualism & brain health (check study from Nuria's class)
@@ -369,6 +606,7 @@ Slides
 </p>
 </div>
 :::
+
 </br>
 
 
