@@ -118,8 +118,12 @@ read / write / speak / listen
 - [Biliteracy]{.emph}: ability to read and write in two languages
 - A [bilingual person]{.emph} is not necessarily biliterate
 - Some bilinguals [cannot read/write]{.emph} in their two languages
+
+::: fragment
 - [Less than half]{.emph} of the world's languages today are written [@sil_orthography_development]
-- About [12%] of the human population is illiterate today [@unesco2025factsheet]
+- About [12%]{.emph} of the human population is illiterate today [@unesco2025factsheet]
+
+:::
 
 ::: notes
 Mention that for the vast majority of history, humans did not write. Today, the vast majority of languages remain solely oral.
@@ -169,6 +173,54 @@ of people in the U.S. speak a language other than English
 
 :::
 
+## Does that seem tiny?
+
+::: columns
+
+::: column
+::: fragment
+![](assets/bilingual-chart-without-US.png){width="100%"}
+:::
+:::
+
+::: column
+::: fragment
+![](assets/bilingual-chart-with-US.png){width="100%"}
+:::
+:::
+
+:::
+
+::: notes
+
+So we're right at the average percentage compared to the EU.
+
+:::
+
+## Does that seem tiny?
+
+::: columns
+
+::: column
+::: fragment
+![](assets/number-of-bilinguals-without-US.png)
+:::
+:::
+
+::: column
+::: fragment
+![](assets/number-of-bilinguals-with-US.png)
+:::
+:::
+
+:::
+
+::: notes
+
+but we have a TON more speakers!
+
+:::
+
 ##
 
 ::: {.columns}
@@ -215,6 +267,19 @@ map source for somerset county: https://experience.arcgis.com/experience/cbd39e9
 
 :::
 
+## Summing it up...
+
+::: incremental
+
+- In our part of the world, about 1 in 3 people are bilingual
+- We see that in the US, bilingualism is particularly concentrated in specific areas
+  - The New York/New Jersey areas is one!
+- We want to [support]{.emph} our bilingual population by providing...
+  - adequate [language access]{.emph} resources
+  - adequate [education]{.emph}
+
+:::
+
 # Linguistic Attitudes & Language Ideologies {.transition}
 
 ##
@@ -237,22 +302,26 @@ discuss with a partner
 
 ## {.smaller}
 
-[Language attitudes]{.emph} are reactions toward languages, their use in society, and their speakers. 
+::: incremental
 
-These attitudes can influence how we speak.
+- [Language attitudes]{.emph} are reactions toward languages, their use in society, and their speakers
 
-"Language" here variably refers to...
+- These attitudes can influence how we speak
 
-- A language (e.g., Spanish)
-- A variety (e.g., Mexican Spanish)
-- A style (e.g., youth speech)
-- A sociolect (e.g., middle-class speech)
+- "Language" here variably refers to...
 
-Attitudes can be:
+  - A language (e.g., Spanish)
+  - A variety (e.g., Mexican Spanish)
+  - A style (e.g., youth speech)
+  - A sociolect (e.g., middle-class speech)
 
-- Positive
-- Negative
-- Neutral
+- Attitudes can be:
+
+  - Positive
+  - Negative
+  - Neutral
+  
+:::
 
 ## 
 ::: incremental
@@ -322,15 +391,15 @@ What do [colonial processes]{.emph} do?
 
 ::: fragment
 
-They [systematize]{.emph} and [classify]{.emph} language:
+- They [systematize]{.emph} and [classify]{.emph} language and language use:
 
 :::
 
 ::: fragment
 
-- Appropriate vs. inappropriate
-- Intelligent vs. unintelligent
-- e.g.: Grammar of the Castilian Language [@nebrija1492gramatica]
+    - Appropriate vs. inappropriate
+    - Intelligent vs. unintelligent
+    - e.g.: Grammar of the Castilian Language [@nebrija1492gramatica]
 
 :::
 
@@ -372,35 +441,61 @@ These [assumptions]{.emph} lead to [misdiagnosis]{.emph} and [misplacement]{.emp
 
 ##
 
-We are often told that being bilingual is an advantage.
-But… an advantage for whom? 
+We are often told that being bilingual is an [advantage]{.emph} in society
 
-Zavala and Tupas argue that bilingualism is not a neutral category — it is political.
+::: fragment
+... but an advantage for who?
+:::
 
-Peru
-“Bilingual” is often used for Quechua-Spanish students, sometimes with deficit connotations.
+::: fragment
 
-Philippines
-English-Filipino bilingualism erased the presence of more than 100 local languages.
+@zavala2024ideology argue that bilingualism is not a neutral category, but [political]{.emph}
+
+:::
+
+##
+
+::: incremental
+
+- In the United States, knowing an indigenous language like [Nahuatl]{.emph} has been seen as [useless]{.emph}
+
+  - In many countries, indigenous languages are seen as [lesser]{.emph} because they do not have a standard grammar or a written form
+
+- In Peru, "bilingual" is often used with [deficit connotations]{.emph} for Quechua-Spanish bilinguals
+
+- In the Philippines, English-Filipino bilingualism [erased]{.emph} the presence of more than 100 local languages.
+
+:::
+
+##
 
 So we should ask:
 
-What counts as bilingual in your context?
-Only English and Spanish?
-What about Indigenous languages?
+::: fragment
 
+- What counts as bilingual in your context?
+- Only English and Spanish?
+- What about indigenous languages?
+
+:::
+
+::: fragment
+
+<center>
 Bilingualism is not fixed.
 It is a diverse and situated experience.
+</center>
+
+:::
 
 # What myths exist about bilingualism? {.transition}
 
 ## True or false?
 
-1) Being bilingual is like being two monolingual people in one body.
-
-2) You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
-
-3) Your ability to speak your languages do not change over your lifetime.
+1. Being bilingual is like being two monolingual people in one body.
+2. You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
+3. Bilingual children can't achieve/gain the same knowledge that monolingual children can.
+4. Using two languages at once means you aren't proficient in either.
 
 ::: notes
 Discuss with a partner
@@ -408,9 +503,20 @@ Discuss with a partner
 
 ## Being bilingual is like being two monolingual people in one body.
 
-FALSE.
+::: fragment
 
-No hay separación de idiomas, los lenguajes están interconectados como si fueran parte de una tela de araña, si un hilo se mueve, hace vibrar toda la tela de araña.
+<center>
+[FALSE]{.p-font style="font-size: 3em"}
+</center>
+
+:::
+
+::: fragment
+
+- There is no strict separation between a bilingual's two languages in their brain
+- It is like a spider web: when you touch a string, the whole web moves
+
+:::
 
 ## Being bilingual is like being two monolingual people in one body.
 
@@ -426,34 +532,53 @@ Nuestros idiomas son como los topitos de Whack a mole, están siempre intentado 
 
 ## Being bilingual is like being two monolingual people in one body.
 
-- Sometimes we use the wrong word:
-
-  - What I want to say: "Pass me the [fork]{.emph}."
-  - What I actually say by accident: "Pass me the [knife]{.emph}."
-
-## Being bilingual is like being two monolingual people in one body.
-
 - A multilingual speaker's languages are always competing for activation
 - Activation can depend on...
   - semantics
   - phonetics
   - syntax
-  
 
-::: notes  
-Give an example of each with Spanish & English
-Add images for this: Coche – Car – Casa (Coche activa Car y Car es competidor fonológico de Casa)
+## Being bilingual is like being two monolingual people in one body.
+
+<center>
+Voy a ir hasta la iglesia en...
+</center>
+
+<br>
+
+::: fragment
+
+- Semantic competitors:
+  - carro, coche, automóvil, bus, taxi, Uber, Lyft, car, automobile, bus, taxi...
+
 :::
 
-# You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
+::: fragment
 
-FALSE.
+- Phonetic competitors:
+  - [ca]{.emph}rro, [ca]{.emph}r, [ca]{.emph}sa, [ca]{.emph}ja, [ca]{.emph}ma, [ca]{.emph}rton, [ca]{.emph}rver, [ca]{.emph}rgo...
 
-Bilingualism comes in all shapes and sizes.
+:::
 
-People who study dead languages like Latin or Greek might only be able to [read]{.emph}.
+## You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
 
-Many languages do not have written forms.
+::: fragment
+
+<center>
+[FALSE]{.p-font style="font-size: 3em"}
+</center>
+
+:::
+
+## You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
+
+- Bilingualism comes in all shapes and sizes.
+
+- People who study dead languages like Latin or Greek might only be able to [read]{.emph}.
+
+- Many languages do not have written forms.
+
+## You have to have proficient skills in speaking, reading, writing, and listening to be considered bilingual.
 
 Many people who grow up in the US are exposed to a language other than English at home, and there are many outcomes:
 
@@ -461,39 +586,59 @@ Many people who grow up in the US are exposed to a language other than English a
 - can speak and comprehend, but cannot read or write
 - can read, write, speak, and comprehend spoken language
 
-## Your ability to speak your languages do not change over your lifetime.
+## Bilingual children can't achieve/gain the same knowledge that monolingual children can.
 
-Language attrition.
+::: fragment
 
-Switch dominance.
+<center>
+[FALSE]{.p-font style="font-size: 3em"}
+</center>
 
-# What do we think about bilingualism? {.transition}
+:::
 
-## True or false?
+## Bilingual children can't achieve/gain the same knowledge that monolingual children can.
 
-Bilingual children can't achieve/gain the same knowledge that monolingual children can.
+::: incremental
 
-FALSE
-- Monolingual children are evaluated in phases
-- Bilingual children too!
-- Problem: the same scale exam is normally used to evaluate these two different populations.
+- Children are evaluated in phases, typically on a standardized scale
+  - e.g., by 2 years old, a child should produce at least 200 words
+- [Problem]{.emph}: the same scale is normally used to evaluate these two different populations
 
-THE TRUTH:
-add some truths & clean up the FALSE statements
+:::
 
-## True or false?
+## Bilingual children can't achieve/gain the same knowledge that monolingual children can.
 
-Bilingual children sometimes mix their languages. Are they confused? Is it too hard to speak two languages?
+::: incremental
 
-FALSE
-- Bilingual children know what language to speak and with who ADD CITATION AND AGE
-- Mixing languages isn't a sign of confusion or laziness
+- Bilingual children spread their knowledge [across two languages]{.emph}
+  - They know 200 total words, but only 100 in English
+  - They know how to count in English, but not in Spanish
+- This leads to [over-diagnosis]{.emph} of developmental delays, when really they may just need a bit more language support at school!
 
-THE TRUTH:
-- Bilinguals who mix languages actually know with whom to mix and when it's (not) appropriate. ADD CITATION
-- There are [rules]{.emph} to mixing languages -- it's not random!
-- Mixing both at the same time is a sign of advanced knowledge of the two languages! ADD CITATION
-- We call this mixing [codeswitching]{.emph}
+:::
+
+## Using two languages at once means you aren't proficient in either.
+
+::: fragment
+
+<center>
+[FALSE]{.p-font style="font-size: 3em"}
+</center>
+
+:::
+
+::: fragment
+
+- Switching between two languages in a conversation requires [proficiency]{.emph} in both languages [@gumperz1999codeswitching]
+
+:::
+
+## Using two languages at once means you aren't proficient in either.
+
+- Bilingual children know what language to speak with who [@harrison1980young]
+- Mixing languages is not a sign of confusion or laziness
+- There are [rules]{.emph} to mixing languages -- it's not random, and the child knows them!
+- We call this language-mixing [codeswitching]{.emph}
 
 ::: notes
 La comprensión y la producción de un bilingüe es diferente de la producción y la comprensión de un monolingüe porque los idiomas están siempre encendidos.
@@ -501,21 +646,29 @@ La comprensión y la producción de un bilingüe es diferente de la producción 
 
 ## Mixing languages
 
-Rate these sentences on how natural they seem to you:
+Rate these sentences on a scale of 1 (very unnatural) to 5 (very natural):
 
-  - Can you peinarme?
-  - I am estrenando this t-shirt.
-  - El plato está en el sink.
-  ADD UNNATURAL CODESWITCHES
+- Can you peinarme?
+- Fui a the tienda.
+- Busco for a pair of shoes.
+- I am estrenando this t-shirt.
+- El plato está en el sink.
+- I bought a rojo car.
 
 ## Codeswitching and Spanglish
 
+<center>
 "Es una combinación de fenómenos de contacto distintos. Estos fenómenos incluyen préstamos, calcos, extensiones semánticas, préstamos temporales, mezclas, entre otros" [@casielles2017spanglish]
+</center>
 
 - troca ~ truck
 - llamar pa'trás ~ to call back
+- carpeta ~ carpet
+- introducir ~ introduce
 
+<center>
 "Spanglish is what we speak, who we Latinos are, and how we act and how we perceive the world" [@morales2007living]
+</center>
 
 ## Codeswitching
 
@@ -525,35 +678,251 @@ Rate these sentences on how natural they seem to you:
 
 "Si quieres empezar otra pelea, I'm not in the mood. Anyway, vine a otra cosa" [@prida1991beautiful]
 
+<br>
+
+<center>
 Do you have other examples?
+</center>
 
 ## Spanglish in the Wild
 
-add images here of spanglish
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/spanglish1.png){width="60%"}
+
+![](assets/spanglish2.png){width="60%"}
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/spanglish3.png){width="70%"}
+
+![](assets/spanglish4.png){width="60%"}
+
+:::
+
+:::
 
 # Are There Advantages to Being Bilingual? {.transition}
 
-Add Stroop Test here.
+## Let's do an experiment...
 
-Multilingualism & brain health (check study from Nuria's class)
+Say the color of the [ink]{.emph}. Do not read the text.
 
-Multilingualism & Alzheimer's (check study from Nuria's class)
+For example, if you see:
+
+<center>
+[blue]{.emph}
+</center>
+
+you say **red**.
+
+##
+
+<br><br><br><br>
+
+<center>
+[Ready?]{.p-font style="font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[brown]{.p-font style="color: red; font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[yellow]{.p-font style="color: blue; font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[red]{.p-font style="color: yellow; font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[brown]{.p-font style="color: green; font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[pink]{.p-font style="color: black; font-size: 5em"}
+</center>
+
+##
+
+<br><br><br><br>
+
+<center>
+[green]{.p-font style="color: orange; font-size: 5em"}
+</center>
+
+## The Stroop Test
+
+We use this task to test [executive function]{.emph}, which involves...
+
+::: incremental
+
+- Self control
+- Working memory
+- Mental flexibility
+
+:::
+
+::: notes
+
+not acting on impulse.
+holding information in mind.
+switching between tasks/perspectives.
+
+:::
+
+## Executive Function in Bilinguals
+
+- It's been found that bilinguals have greater [executive function]{.emph} compared to monolinguals [@coderre2014electrophysiological]
+
+::: incremental
+
+- This means that bilinguals tend to...
+  - have better impulse control
+  - hold more information in their mind in the short-term
+  - have greater ease switching between tasks
+
+:::
+
+## What if my child has Autism or ADHD?
+
+- Some parents are concerned that hearing or speaking more than one language may [confuse]{.emph} a child
+
+<br><br>
+
+<center>
+What do you think?
+</center>
+
+## What if my child has Autism or ADHD?
+
+::: incremental
+
+- For a long time, being bilingual was seen as a [disadvantage]{.emph}
+- Parents were told to speak [only English]{.emph} at home, and many teachers still suggest this!
+- This is especially the case for parents of children with autism or ADHD
+
+:::
+
+## Bilingualism and ADHD
+
+- People diagnosed with attention deficit disorders tend to have [poorer]{.emph} executive function
+- However, bilingualism seems to [mitigate]{.emph} the impact when under cognitive duress [@brouillardchallenges]
+
+## Bilingualism and Autism
+
+::: incremental
+
+- [Autism]{.emph} is an umbrella term for a spectrum of differences from the [neurotypical]{.emph} population
+- A typical fear is that a child with autism will be burdened by hearing and speaking two languages
+- However, we have evidence in the contrary!
+  - Bilingual children with autism do not show any delays greater than their monolingual counterparts
+  - In fact, children with autism from a bilingual environment who are raised as monolingual show detrimental effects!
+  
+:::
+  
+::: footer
+@beauchamp2017bilingualism
+:::
+
+## Bilingualism and the Brain
+
+- Bilingualism makes your brain healthier!
+- There is strong evidence that bilinguals retain [more brain matter]{.emph} as they grow older compared to monolinguals [@heim2019bilingualism]
+- There is also evidence that bilingualism [delays the onset of Alzheimer's disease]{.emph}! [@woumans2015bilingualism]
+
+## In sum...
+
+::: incremental
+
+- Bilingualism does not delay development in typical or atypical populations
+- It is [healthy]{.emph} for the brain and provides certain [advantage]{.emph}
+
+- Provides greater [executive function]{.emph}
+
+:::
+
+::: fragment
+
+    - better short-term memory
+    - greater multitasking skills
+    - more self control
+
+:::
 
 # How Can we Contribute to Maintaining Bilingualism? {.transition}
 
 ## What can you do to maintain your language(s)?
 
-ADD IMAGES OF FAMILY ACTIVITIES AND STUFF
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/family1.jpg)
+
+![](assets/family2.png)
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/family3.png)
+
+![](assets/family4.png)
+
+:::
+
+:::
+
+::: notes
+Do activities with your family. Language is social.
+
+:::
 
 ## What can you do to maintain your language(s)?
 
-The language(s) should be spoken whenever possible
+::: incremental
+
+- The language(s) should be spoken whenever possible
   - talk about daily activities
   - tell stories and histories
   - ask questions
-  - [motivate everyone to participate]{.emph}
-  
-USE YOUR LANGAUGE!
+  - motivate everyone to participate
+
+:::
+
+::: fragment
+
+<center> 
+[USE YOUR LANGAUGE!]{.emph}
+</center>
+
+:::
 
 ## What can you do to maintain your language(s)?
 
@@ -573,15 +942,8 @@ Create a [network]{.emph} of speakers
 
 - Create safe place for people to communicate in their languages
 
-Zimmerli picture
+![](assets/zimmerli.png)
 
-# DISORDERED SPEECH
-
-https://www.youtube.com/watch?v=DJVz0rNJ0BA&list=PLnfCMjNTvILC8q1cknIk_fvzOfOV_oZhB&index=191
-
-Use this to talk about bilingual language development and disorders
-
-Check out Patrick's work for overdiagnosis of disordered speech in bilingual children.
 
 ## Thanks! {.final visibility="uncounted"}
 
